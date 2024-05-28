@@ -1,1 +1,1 @@
-Uma simples página web que monitora o clima.
+Uma página web simples que monitora o clima.
