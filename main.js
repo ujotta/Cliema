@@ -1,4 +1,4 @@
-const apiKey = '88e5e2514179fd63d5d5282f5d449ee6';
+const apiKey = 'chaveapi';
 let pos = 'sao paulo';
 const lang = 'pt_br';
 const units = 'metric'
