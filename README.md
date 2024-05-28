@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+Uma simples página web que monitora o clima.
